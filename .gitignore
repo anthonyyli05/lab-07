@@ -1,0 +1,10 @@
+
+# Android Studio and generated files
+.idea/
+lab-7/.idea/
+lab-7/.gradle/
+lab-7/.kotlin/
+lab-7/build/
+lab-7/app/build/
+lab-7/local.properties
+.DS_Store
